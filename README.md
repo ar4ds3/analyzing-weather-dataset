@@ -1,0 +1,3 @@
+This project contains weather data for each hour in 2012. There are many interesting connections between everyday life and the weather that we will explore with the help of the provided dataset. Apply all the numpy and pandas skills learned so far to analyze the data.
+Building up this project enhanced the Data Wrangling, umpy and Pandas skill.
+The focus was on designing the code in a generic and modular frame, and hence each and every task has been implemented referring to a user defined function. This helps in effective code utilization for future requirements as well.
